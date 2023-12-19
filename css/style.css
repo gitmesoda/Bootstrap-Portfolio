@@ -1,0 +1,90 @@
+/* Custom styles for Bootstrap Portfolio */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Navigation Bar Customizations */
+.navbar {
+    padding: 0.5rem 1rem;
+    /* Adjust the padding to suit your design */
+}
+
+/* Hero Section Customizations */
+#hero {
+    background: #529961;
+    /* Light background for the hero section */
+    padding: 2rem 0;
+    /* Spacing */
+    margin-bottom: 2rem;
+    /* Margin to separate from next section */
+}
+
+#hero h1 {
+    font-size: 2.5rem;
+    /* Large font size for the main title */
+    margin-bottom: 1rem;
+    /* Spacing */
+}
+
+#hero p {
+    font-size: 1.2rem;
+    /* Slightly larger font size for the subtitle */
+}
+
+/* Work Section Customizations */
+#work {
+    padding-bottom: 2rem;
+    /* Spacing */
+}
+
+#work h2 {
+    margin-bottom: 1.5rem;
+    /* Spacing below section title */
+}
+
+.card {
+    margin-bottom: 1rem;
+    /* Spacing between cards */
+}
+
+/* Skills Section Customizations */
+#skills {
+    background: #e9ecef;
+    /* Different background for contrast */
+    padding: 2rem 0;
+    /* Spacing */
+}
+
+#skills h2 {
+    margin-bottom: 1rem;
+    /* Spacing below section title */
+}
+
+.list-group-item {
+    border: none;
+    /* Removes default border */
+    background: transparent;
+    /* Transparent background */
+    font-size: 1.1rem;
+    /* Slightly larger font size */
+}
+
+/* About/Contact Section Customizations */
+#contact {
+    padding: 2rem 0;
+    /* Spacing */
+}
+
+#contact h2 {
+    margin-bottom: 1rem;
+    /* Spacing below section title */
+}
+
+/* Footer Customizations */
+footer {
+    padding: 1rem 0;
+    /* Spacing */
+    font-size: 0.9rem;
+    /* Smaller font size */
+}
